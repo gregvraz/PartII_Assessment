@@ -1,5 +1,6 @@
 # PartII_Assessment
-customer_segmentation
+customer_segmentation_problem
+
 Please make sure that you have downloaded and stored at the same location both the Customer_Segmentation_Assessment_Part II.ipynb and the csv file bq_results_orders_jan2021.csv
 
 Due to permission issues, I could not connect on the SQL database via the API. Therefore, I executed the following query and saved the CSV with all the available data locally.
